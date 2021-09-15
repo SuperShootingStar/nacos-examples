@@ -13,6 +13,7 @@ public class test1 {
 	
 	public static void test() {
 		System.out.println("测试1");
+		System.out.println("测试2");
 	}
 	
 }
